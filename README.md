@@ -6,6 +6,6 @@ Explore Our Celebrities
 
 Stand Out Features 
 
-##### h5 Heading 
+Pricing Plans 
 
 ###### h6 Heading 
