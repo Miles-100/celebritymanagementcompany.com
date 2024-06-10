@@ -1,1 +1,0 @@
-# celebritymanagementcompany.com
