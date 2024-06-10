@@ -1,5 +1,5 @@
 GET STARTED
-## h2 Heading
+How It Works 
 ### h3 Heading 
 #### h4 Heading 
 ##### h5 Heading 
