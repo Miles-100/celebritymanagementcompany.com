@@ -1,6 +1,11 @@
 GET STARTED 
+
 How It Works  
+
 Explore Our Celebrities 
-#### h4 Heading 
+
+Stand Out Features 
+
 ##### h5 Heading 
+
 ###### h6 Heading
