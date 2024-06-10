@@ -1,4 +1,4 @@
-GET STARTED
+Get Started 
  
 How It Works  
 
@@ -9,4 +9,3 @@ Stand Out Features
 Pricing Plans 
 
 About Us 
-
