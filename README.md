@@ -8,4 +8,4 @@ Stand Out Features
 
 Pricing Plans
 
-###### h6 Heading
+About Us
